@@ -1,5 +1,5 @@
 ## セットアップ
-cp docker-compose.yml.sample docker-compose.yml
+cp docker-compose.yml.sample docker-compose.yml  
 docker-compose up -d --build
 
 ## docker起動後
