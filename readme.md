@@ -6,7 +6,7 @@ docker-compose up -d --build
 http://localhost/
 
 ## DB接続設定
-cd src
-cp .env.example .env
-dokcer-compose.ymlのDB方法に合わせてlaravelの.envも変更
-.env内でDB情報の設定が必要
+cd src  
+cp .env.example .env  
+dokcer-compose.ymlのDB方法に合わせてlaravelの.envも変更  
+.env内でDB情報の設定が必要  
